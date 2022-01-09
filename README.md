@@ -13,9 +13,11 @@
 
 🏠 I've recently moved to Toronto
 
+🎯 I'm looking to change my career to become a Data Analyst
+
 📚 Books that changed my life: Work Rules! (By Laszlo Bock), The Effective Engineer (By Edmund Lau) & The Hard Thing About Hard Things (By Ben Horowitz)
 
-❤️ I love coffee
+☕ I love coffee
 
 🙂 Pronouns: She/Her
 
