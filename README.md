@@ -6,8 +6,10 @@
 
 
 
-![mario-gif-maker](https://user-images.githubusercontent.com/88034960/148655055-5c0af606-84d6-49af-a490-8d5430c8044d.gif)   
+
 ## A little more about me...
+
+![mario-gif-maker](https://user-images.githubusercontent.com/88034960/148655055-5c0af606-84d6-49af-a490-8d5430c8044d.gif)          
 
 🖊️ I'm currently learning SQL, Python and Tableau
 
