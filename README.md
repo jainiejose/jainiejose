@@ -2,6 +2,10 @@
 ![github](https://user-images.githubusercontent.com/88034960/148631677-70e7e487-d21a-46e0-92fa-5cf7a2d97ee9.gif)
 
 
+# Hi! 👋
+
+
+
 
 
 
@@ -15,7 +19,7 @@
 
 🏠 I've recently moved to Toronto
 
-🎯 I'm looking to change my career to become a Data Analyst
+🎯 Currently working on changing my career to a Data Analyst
 
 📚 Books that changed my life: Work Rules! (By Laszlo Bock), The Effective Engineer (By Edmund Lau) & The Hard Thing About Hard Things (By Ben Horowitz)
 
@@ -23,7 +27,7 @@
 
 🙂 Pronouns: She/Her
 
-⚡ Fun fact: I have relocated 5 times : Bahrain 🡪 India 🡪 USA 🡪 Singapore 🡪 Canada
+⚡ Fun fact: I have relocated 5 times : Bahrain 🡪 India 🡪 USA 🡪 Singapore 🡪  now Canada :)
 
 💬 How to reach me: [Linkedin](https://www.linkedin.com/in/jainiejose).
 
