@@ -27,7 +27,10 @@
 
 🙂 Pronouns: She/Her
 
-⚡ Fun fact: I have relocated 5 times : Bahrain 🡪 India 🡪 USA 🡪 Singapore 🡪  now Canada :)
+⚡ Fun facts: 
+- I have relocated 5 times : Bahrain 🡪 India 🡪 USA 🡪 Singapore 🡪  now Canada :)
+              
+- I love listening to lofi music while studying
 
 💬 How to reach me: [Linkedin](https://www.linkedin.com/in/jainiejose).
 
