@@ -23,14 +23,9 @@
 
 📚 Books that changed my life: Work Rules! (By Laszlo Bock), The Effective Engineer (By Edmund Lau) & The Hard Thing About Hard Things (By Ben Horowitz)
 
-☕ I love coffee
-
-🙂 Pronouns: She/Her
-
-⚡ Fun facts: 
-- I have relocated 5 times : Bahrain 🡪 India 🡪 USA 🡪 Singapore 🡪  now Canada :)
+⚡ Fun fact: I have relocated 5 times : Bahrain 🡪 India 🡪 USA 🡪 Singapore 🡪  now Canada :)
               
-- I love listening to lofi music while studying
+
 
 💬 How to reach me: [Linkedin](https://www.linkedin.com/in/jainiejose).
 
