@@ -1,5 +1,6 @@
 
-![github](https://user-images.githubusercontent.com/88034960/148631677-70e7e487-d21a-46e0-92fa-5cf7a2d97ee9.gif)
+![githubbanner](https://user-images.githubusercontent.com/88034960/151077863-3e0e8b6c-9051-438f-9665-33aeb043597a.png)
+
 
 
 # Hi! 👋
