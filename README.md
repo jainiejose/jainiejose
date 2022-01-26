@@ -1,5 +1,5 @@
 
-![githubbanner](https://user-images.githubusercontent.com/88034960/151077863-3e0e8b6c-9051-438f-9665-33aeb043597a.png)
+![Github](https://user-images.githubusercontent.com/88034960/151254827-a6ee504c-c2ae-44c4-ae83-2e5f155287d6.gif)
 
 
 
