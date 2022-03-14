@@ -1,15 +1,11 @@
 
-![Github](https://user-images.githubusercontent.com/88034960/151254827-a6ee504c-c2ae-44c4-ae83-2e5f155287d6.gif)
+![Github page](https://user-images.githubusercontent.com/88034960/158095554-9cd8a333-86c1-420b-9cb2-113014abcafa.png)
 
 
 
 # Hi! 👋
 
-
-
-
-
-
+Like many other budding data enthusiasts, my journey into data was nonlinear. I got my first introduction to SQL and understanding about the whole data ecosystem through SheLovesData. I joined ShelovesData because I wanted to have a community with other data enthusiasts where I can learn from and grow with. Since then I have developed a passion for data and began self-teaching myself and seeking out resources to hone and improve my skills.
 
 
 ## A little more about me...
