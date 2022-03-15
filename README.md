@@ -5,7 +5,7 @@
 
 # Hi! 👋
 
-Like many other budding data enthusiasts, my journey into data was nonlinear. I got my first introduction to SQL and understanding about the whole data ecosystem through [Shelovesdata](https://www.shelovesdata.com/). I joined Shelovesdata because I wanted to have a community with other data enthusiasts where I can learn from and grow with. Since then I have developed a passion for data and began self-teaching myself and seeking out resources to hone and improve my skills.
+My data journey, like that of many other aspiring data enthusiasts, was nonlinear. Shelovesdata provided me with my first introduction to SQL and an understanding of the entire data ecosystem. I joined Shelovesdata because I wanted to be a part of a community of data enthusiasts with whom I could learn and grow. Since then, I've developed a passion for data, and I've started self-teaching myself and looking for resources to hone and improve my skills.
 
 
 ## A little more about me...
